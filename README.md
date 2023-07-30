@@ -5,10 +5,12 @@ Converts any image to an array of hex values with the desired data size
 
 ```console
 $ pip install scikit-build
-
 $ pip install cmake
-
 $ pip install opencv-python
+```
+
+```console
+$ pip install imageio
 ```
 
 ## Usage
