@@ -6,5 +6,11 @@ Converts any image to an array of hex values with the desired data size
 ## Usage
 
 ```console
-python3 main.py
+$ python3 main.py
+```
+```console
+Enter image url: foo
+```
+```console
+$
 ```
