@@ -10,7 +10,11 @@ $ python3 main.py
 ```
 ```console
 Enter image url: foo
+Height of image: foo.height
+Width of image: foo.width
 ```
 ```console
-$
+Enter width: [You can adjust width here]
+Enter Height: [You can adjust height here]
+Enter size in bytes, words, longs or all: [Desired data size for output array]
 ```
